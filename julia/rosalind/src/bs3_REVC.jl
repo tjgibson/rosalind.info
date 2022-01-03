@@ -6,5 +6,5 @@ end
 
 test_dna = "AAAACCCGGT"
 
-time rev_comp(test_dna)
+rev_comp(test_dna)
 
