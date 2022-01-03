@@ -7,4 +7,3 @@ end
 test_dna = "AAAACCCGGT"
 
 rev_comp(test_dna)
-
