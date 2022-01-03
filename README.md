@@ -1,1 +1,2 @@
 # rosalind.info
+This repository contains my solutions to bioinformatics problems from [Rosalind](rosalind.info). Rosalind contains several excellent sets of problems on basic programming, algorithms and bioinformatics. When I originally discovered Rosalind, I used it as a way to practice and improve my programming and bioinformatics skills. More recently, I have been revisiting the problem sets as a way to learn some new programming languages. This repository includes subdirectories with solutions implemented in different programming languages.
