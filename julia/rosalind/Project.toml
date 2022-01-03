@@ -1,0 +1,4 @@
+name = "rosalind"
+uuid = "315e5776-580c-4280-a85e-b88b54426ff5"
+authors = ["Tyler Gibson <tjmgibson@gmail.com>"]
+version = "0.1.0"
